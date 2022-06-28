@@ -1,9 +1,12 @@
 # Crack wifi Password
 使用Aircrack-ng暴力破解WPA/WPA2加密wifi密碼。
+* 暴力破解
+* 字典檔
 
 ## **環境**
 * 系統：Kali Linux
 * 硬體：一台有無線網卡的電腦
+* 一個字典檔
 
 ## **破解流程**
 * step1：查看無線網卡名稱
