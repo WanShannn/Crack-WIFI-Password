@@ -41,3 +41,4 @@
   
 ## **References**
 * https://shazi.info/%E4%BD%BF%E7%94%A8-aircrack-ng-%E6%9A%B4%E5%8A%9B%E7%A0%B4%E8%A7%A3-wpawpa2-%E5%8A%A0%E5%AF%86-wifi-%E5%AF%86%E7%A2%BC/
+* https://zh.wikipedia.org/zh-tw/Aircrack-NG
